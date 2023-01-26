@@ -3,3 +3,4 @@ vega-datasets
 numpy
 pandas
 matplotlib
+gunicorn
