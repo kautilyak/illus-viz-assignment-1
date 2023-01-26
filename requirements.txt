@@ -1,0 +1,5 @@
+streamlit
+vega-datasets
+numpy
+pandas
+matplotlib
